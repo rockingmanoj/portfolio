@@ -18,7 +18,7 @@ $(document).ready(function() {
 	});
 
 	var typed = new Typed(".typed", {
-		strings: ["Blogger.", "Web Developer.", "UI/UX designer .","Developer Student Club Lead.","IBM certified Customer Engagement Specialist.","Marketing Intern.","Digital Consultant.","Orator.","Community Guy"],
+		strings: ["Web Developer.", "UI/UX designer .","Developer Student Club Lead.","IBM certified Customer Engagement Specialist.","Marketing Intern.","Digital Consultant.","Orator.","Community Guy"],
 		typeSpeed: 70,
 		loop: true,
 		startDelay: 1000,
