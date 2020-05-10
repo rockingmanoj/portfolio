@@ -1,10 +1,10 @@
-$(window).on("load", function() {
+// $(window).on("load", function() {
 
-	$(".loader .inner").fadeOut(200, function() {
-		$(".loader").fadeOut(450);
-	});
+// 	$(".loader .inner").fadeOut(200, function() {
+// 		$(".loader").fadeOut(450);
+// 	});
 
-})
+// })
 
 
 
